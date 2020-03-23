@@ -1,0 +1,1 @@
+mkvirtualenv -a "C:\Users\vimirji\PycharmProjects\covid19" <full-path-to-python.exe> forecasting
